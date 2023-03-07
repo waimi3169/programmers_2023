@@ -5,6 +5,7 @@ public class Main {
         /*System.out.println(new Solution().solution(2,3));
         System.out.println(new Solution().solution(11,11));
         System.out.println(new Solution().solution(7,99));*/
+        // 12121212
 
     }
 }
